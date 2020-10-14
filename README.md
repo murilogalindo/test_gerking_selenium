@@ -1,5 +1,7 @@
 ## test_gerking_selenium
 
+## (Projeto não foi executado pois quando rodo a automação e aparecer um CAPTCHA). Para tratar isso, só em ambiente controlado.
+
 ## Configurando e rodando o projeto
 ## Você irá precisar
 
