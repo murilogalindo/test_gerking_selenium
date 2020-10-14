@@ -1,28 +1,28 @@
-# test_gerking_selenium
+## test_gerking_selenium
 
-# Configurando e rodando o projeto
-# Você irá precisar
+## Configurando e rodando o projeto
+## Você irá precisar
 
 Instalação Instalar o Java SDK Alguma IDE para JAVA Eclipse ou Intellij Baixar as libs do Selenium - https://www.selenium.dev/downloads/ Baixar o Chromedriver - https://chromedriver.chromium.org/downloads
 
-# Configurar no pom.xml
+## Configurar no pom.xml
 Pesquisas no MVN Reepository https://mvnrepository.com/
 Junit 4.13
 seleniumhq 4.0.0
 cucumber 6.8.0
 
 
-# Iniciando o Java Passo 1 - Instalar o Java em seu computador Baize e Insale o Java Software Development Kit (JDK)
+## Iniciando o Java Passo 1 - Instalar o Java em seu computador Baize e Insale o Java Software Development Kit (JDK)
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
-# Projeto iciado para estudos
+## Projeto iciado para estudos
 
 Dificuldade: fácil
 
 Tecnologias escolhidas: Linguagem Java Framework de testes automatizados: Selenium WebDriver Framework de testes automatizados: JUnit * Cucumber e linguagem Guerkin
 
-# Resumo:
+## Resumo:
 Encontrar path relativo de driver
 
 Básico de WebDriver
@@ -35,15 +35,15 @@ Criar um método de teste
 
 Validar resultados de teste
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
-# Features:
+## Features:
 Onde são criados os arquivos .feature para escrita da linguagem gherkin
 
-# setpDefinitions
+## setpDefinitions
 Pasta onde são criadas as classes de testes
 
-# testRunner
+## testRunner
 Classe reposnsável por chamar e executar os cenários de testes
 
 
