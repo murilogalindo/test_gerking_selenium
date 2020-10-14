@@ -12,7 +12,7 @@ seleniumhq 4.0.0
 cucumber 6.8.0
 
 
-## Iniciando o Java Passo 1 - Instalar o Java em seu computador Baize e Insale o Java Software Development Kit (JDK)
+Iniciando o Java Passo 1 - Instalar o Java em seu computador Baize e Insale o Java Software Development Kit (JDK)
 
 ## Estrutura do Projeto
 
